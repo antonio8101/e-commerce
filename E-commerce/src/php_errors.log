@@ -1,0 +1,601 @@
+[21-Feb-2023 18:05:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 18:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 19:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 19:20:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 19:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 20:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 20:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 20:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 20:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 20:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isProcessiongForm() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 14
+[21-Feb-2023 22:15:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[21-Feb-2023 22:15:14 UTC] PHP Stack trace:
+[21-Feb-2023 22:15:14 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:15:14 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:7
+[21-Feb-2023 22:15:14 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[21-Feb-2023 22:15:14 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 112
+[21-Feb-2023 22:15:14 UTC] PHP Stack trace:
+[21-Feb-2023 22:15:14 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:15:14 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:14
+[21-Feb-2023 22:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:142
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 142
+[21-Feb-2023 22:40:19 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:40:19 UTC] PHP Stack trace:
+[21-Feb-2023 22:40:19 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getLog() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:168
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 168
+[21-Feb-2023 22:40:19 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:40:19 UTC] PHP Stack trace:
+[21-Feb-2023 22:40:19 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getLog() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:168
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 168
+[21-Feb-2023 22:41:22 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:41:22 UTC] PHP Stack trace:
+[21-Feb-2023 22:41:22 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageFooter() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:253
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 253
+[21-Feb-2023 22:41:23 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:41:23 UTC] PHP Stack trace:
+[21-Feb-2023 22:41:23 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageFooter() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:253
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 253
+[21-Feb-2023 22:42:01 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:42:01 UTC] PHP Stack trace:
+[21-Feb-2023 22:42:01 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:42:01 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:42:01 UTC] PHP Stack trace:
+[21-Feb-2023 22:42:01 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:42:01 UTC] PHP Warning:  Undefined variable $contactCreated in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 165
+[21-Feb-2023 22:42:01 UTC] PHP Stack trace:
+[21-Feb-2023 22:42:01 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[21-Feb-2023 22:48:29 UTC] PHP Warning:  require_once(inc/helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 4
+[21-Feb-2023 22:48:29 UTC] PHP Stack trace:
+[21-Feb-2023 22:48:29 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:0
+[21-Feb-2023 22:48:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 4
+[21-Feb-2023 22:49:02 UTC] PHP Warning:  require_once(templates.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 7
+[21-Feb-2023 22:49:02 UTC] PHP Stack trace:
+[21-Feb-2023 22:49:02 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:0
+[21-Feb-2023 22:49:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'templates.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 7
+[21-Feb-2023 22:49:02 UTC] PHP Warning:  require_once(templates.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 7
+[21-Feb-2023 22:49:02 UTC] PHP Stack trace:
+[21-Feb-2023 22:49:02 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:0
+[21-Feb-2023 22:49:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'templates.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 7
+[21-Feb-2023 22:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:167
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 167
+[21-Feb-2023 22:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:167
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 167
+[21-Feb-2023 22:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:167
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 167
+[21-Feb-2023 22:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[21-Feb-2023 22:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[21-Feb-2023 22:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[21-Feb-2023 22:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[21-Feb-2023 22:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[21-Feb-2023 22:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[21-Feb-2023 22:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getValue() in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php:206
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\antonio_test.php on line 206
+[22-Feb-2023 15:53:33 UTC] PHP Parse error:  Unclosed '{' on line 124 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 279
+[22-Feb-2023 16:00:46 UTC] PHP Parse error:  syntax error, unexpected identifier "value" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 227
+[22-Feb-2023 16:01:46 UTC] PHP Parse error:  Unclosed '{' on line 125 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 281
+[22-Feb-2023 16:02:31 UTC] PHP Parse error:  Unclosed '{' on line 125 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 280
+[22-Feb-2023 16:06:36 UTC] PHP Parse error:  syntax error, unexpected token "endif" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 274
+[22-Feb-2023 16:07:24 UTC] PHP Parse error:  syntax error, unexpected token "else" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 182
+[22-Feb-2023 16:13:39 UTC] PHP Parse error:  Unclosed '{' on line 127 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 283
+[22-Feb-2023 16:14:06 UTC] PHP Parse error:  Unclosed '{' on line 127 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 283
+[22-Feb-2023 16:15:37 UTC] PHP Parse error:  Unclosed '{' on line 127 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 283
+[22-Feb-2023 16:15:37 UTC] PHP Parse error:  Unclosed '{' on line 127 in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 283
+[22-Feb-2023 16:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:171
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 171
+[22-Feb-2023 16:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:171
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 171
+[22-Feb-2023 16:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:171
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 171
+[22-Feb-2023 16:18:39 UTC] PHP Warning:  require_once(inc/mysqli/mysqli): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[22-Feb-2023 16:18:39 UTC] PHP Stack trace:
+[22-Feb-2023 16:18:39 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[22-Feb-2023 16:18:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/mysqli/mysqli' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[22-Feb-2023 16:18:39 UTC] PHP Warning:  require_once(inc/mysqli/mysqli): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[22-Feb-2023 16:18:39 UTC] PHP Stack trace:
+[22-Feb-2023 16:18:39 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[22-Feb-2023 16:18:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'inc/mysqli/mysqli' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[22-Feb-2023 16:19:38 UTC] PHP Fatal error:  Cannot redeclare deleteContact() (previously declared in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php:45) in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 69
+[22-Feb-2023 16:19:38 UTC] PHP Stack trace:
+[22-Feb-2023 16:19:38 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[22-Feb-2023 16:19:38 UTC] PHP Fatal error:  Cannot redeclare deleteContact() (previously declared in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php:45) in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 69
+[22-Feb-2023 16:19:38 UTC] PHP Stack trace:
+[22-Feb-2023 16:19:38 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[22-Feb-2023 16:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getPageHeader() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:174
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 174
+[01-Mar-2023 15:32:04 UTC] PHP Warning:  require_once(src/inc/config.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 2
+[01-Mar-2023 15:32:04 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:04 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/config.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 2
+[01-Mar-2023 15:32:04 UTC] PHP Warning:  require_once(src/inc/config.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 2
+[01-Mar-2023 15:32:04 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:04 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/config.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 2
+[01-Mar-2023 15:32:21 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:21 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:21 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:21 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:21 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:21 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:22 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:22 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:22 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:22 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:22 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:22 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:23 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:23 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:23 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:23 UTC] PHP Warning:  require_once(src/inc/Helper.inc.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:23 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:23 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/Helper.inc.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 3
+[01-Mar-2023 15:32:30 UTC] PHP Warning:  require_once(src/mysqli/mysqli.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 4
+[01-Mar-2023 15:32:30 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:30 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/mysqli/mysqli.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 4
+[01-Mar-2023 15:32:30 UTC] PHP Warning:  require_once(src/mysqli/mysqli.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 4
+[01-Mar-2023 15:32:30 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:30 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/mysqli/mysqli.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 4
+[01-Mar-2023 15:32:30 UTC] PHP Warning:  require_once(src/mysqli/mysqli.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 4
+[01-Mar-2023 15:32:30 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:30 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/mysqli/mysqli.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 4
+[01-Mar-2023 15:32:40 UTC] PHP Warning:  require_once(src/inc/session.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[01-Mar-2023 15:32:40 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:40 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/session.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[01-Mar-2023 15:32:40 UTC] PHP Warning:  require_once(src/inc/session.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[01-Mar-2023 15:32:40 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:40 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/session.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[01-Mar-2023 15:32:40 UTC] PHP Warning:  require_once(src/inc/session.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[01-Mar-2023 15:32:40 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:40 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/inc/session.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 5
+[01-Mar-2023 15:32:44 UTC] PHP Warning:  require_once(src/pdo/ConnectToPDO.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:44 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:44 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/pdo/ConnectToPDO.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:44 UTC] PHP Warning:  require_once(src/pdo/ConnectToPDO.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:44 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:44 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/pdo/ConnectToPDO.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:44 UTC] PHP Warning:  require_once(src/pdo/ConnectToPDO.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:44 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:44 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/pdo/ConnectToPDO.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:48 UTC] PHP Warning:  require_once(src/pdo/ConnectToPDO.php): Failed to open stream: No such file or directory in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:48 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:48 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/pdo/ConnectToPDO.php' (include_path='.;C:\php\pear') in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 6
+[01-Mar-2023 15:32:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 15:32:50 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:50 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:50 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:10
+[01-Mar-2023 15:32:50 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 15:32:50 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 119
+[01-Mar-2023 15:32:50 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:50 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:50 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:18
+[01-Mar-2023 15:32:50 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 119
+[01-Mar-2023 15:32:50 UTC] PHP Stack trace:
+[01-Mar-2023 15:32:50 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 15:32:50 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:176
+[01-Mar-2023 16:28:47 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:28:47 UTC] PHP Stack trace:
+[01-Mar-2023 16:28:47 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:28:47 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:28:47 UTC] PHP Stack trace:
+[01-Mar-2023 16:28:47 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:28:47 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:28:47 UTC] PHP Stack trace:
+[01-Mar-2023 16:28:47 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:28:48 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:28:48 UTC] PHP Stack trace:
+[01-Mar-2023 16:28:48 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:28:48 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:28:48 UTC] PHP Stack trace:
+[01-Mar-2023 16:28:48 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:28:48 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:28:48 UTC] PHP Stack trace:
+[01-Mar-2023 16:28:48 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:29:54 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:29:54 UTC] PHP Stack trace:
+[01-Mar-2023 16:29:54 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:30:27 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:30:27 UTC] PHP Stack trace:
+[01-Mar-2023 16:30:27 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:33:06 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:33:06 UTC] PHP Stack trace:
+[01-Mar-2023 16:33:06 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:38:45 UTC] PHP Warning:  Undefined array key "HTTPS" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 38
+[01-Mar-2023 16:38:45 UTC] PHP Stack trace:
+[01-Mar-2023 16:38:45 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:47:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 16:47:03 UTC] PHP Stack trace:
+[01-Mar-2023 16:47:03 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:47:03 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 16:47:03 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 16:47:03 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 16:47:03 UTC] PHP Stack trace:
+[01-Mar-2023 16:47:03 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:47:03 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 16:47:03 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 16:47:03 UTC] PHP Stack trace:
+[01-Mar-2023 16:47:03 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:47:03 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[01-Mar-2023 16:52:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 16:52:38 UTC] PHP Stack trace:
+[01-Mar-2023 16:52:38 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:52:38 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 16:52:38 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 16:52:38 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 16:52:38 UTC] PHP Stack trace:
+[01-Mar-2023 16:52:38 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:52:38 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 16:52:38 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 16:52:38 UTC] PHP Stack trace:
+[01-Mar-2023 16:52:38 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 16:52:38 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[01-Mar-2023 17:12:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 17:12:23 UTC] PHP Stack trace:
+[01-Mar-2023 17:12:23 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:12:23 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 17:12:23 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 17:12:23 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:12:23 UTC] PHP Stack trace:
+[01-Mar-2023 17:12:23 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:12:23 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 17:12:23 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:12:23 UTC] PHP Stack trace:
+[01-Mar-2023 17:12:23 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:12:23 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[01-Mar-2023 17:13:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 17:13:49 UTC] PHP Stack trace:
+[01-Mar-2023 17:13:49 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:13:49 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 17:13:49 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 17:13:49 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:13:49 UTC] PHP Stack trace:
+[01-Mar-2023 17:13:49 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:13:49 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 17:13:49 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:13:49 UTC] PHP Stack trace:
+[01-Mar-2023 17:13:49 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:13:49 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[01-Mar-2023 17:14:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 17:14:02 UTC] PHP Stack trace:
+[01-Mar-2023 17:14:02 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:14:02 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 17:14:02 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 17:14:02 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:14:02 UTC] PHP Stack trace:
+[01-Mar-2023 17:14:02 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:14:02 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 17:14:02 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:14:02 UTC] PHP Stack trace:
+[01-Mar-2023 17:14:02 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:14:02 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[01-Mar-2023 17:14:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 17:14:25 UTC] PHP Stack trace:
+[01-Mar-2023 17:14:25 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:14:25 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 17:14:25 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 17:14:25 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:14:25 UTC] PHP Stack trace:
+[01-Mar-2023 17:14:25 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:14:25 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 17:14:25 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:14:25 UTC] PHP Stack trace:
+[01-Mar-2023 17:14:25 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:14:25 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[01-Mar-2023 17:15:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php on line 4
+[01-Mar-2023 17:15:55 UTC] PHP Stack trace:
+[01-Mar-2023 17:15:55 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:15:55 UTC] PHP   2. startSession($initialSessionData = []) C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:9
+[01-Mar-2023 17:15:55 UTC] PHP   3. session_start() C:\Users\franc\PhpstormProjects\E-commerce\src\inc\session.php:4
+[01-Mar-2023 17:15:55 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:15:55 UTC] PHP Stack trace:
+[01-Mar-2023 17:15:55 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:15:55 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:17
+[01-Mar-2023 17:15:55 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 118
+[01-Mar-2023 17:15:55 UTC] PHP Stack trace:
+[01-Mar-2023 17:15:55 UTC] PHP   1. {main}() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:0
+[01-Mar-2023 17:15:55 UTC] PHP   2. isProcessingForm() C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:175
+[02-Mar-2023 15:58:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: PDO::__construct() expects at most 4 arguments, 5 given in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:12
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php(12): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue), 3306, Array)
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(133): connectPDO('localhost', 3306, 'root', '2802')
+#2 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#3 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 12
+[02-Mar-2023 16:03:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PORT" in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:133
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#1 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 133
+[02-Mar-2023 16:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createContact() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:137
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#1 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 137
+[02-Mar-2023 16:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 16:53:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function closePDO() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:139
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#1 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 139
+[02-Mar-2023 16:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:04:26 UTC] PHP Fatal error:  Uncaught TypeError: closePDO(): Argument #1 ($db) must be of type mysqli, PDO given, called in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 139 and defined in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:23
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 23
+[02-Mar-2023 17:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:13:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectMySQLi(), 4 passed in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 158 and exactly 5 expected in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php:78
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(158): connectMySQLi('localhost', '3306', 'root', '2802')
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(29): createContactWithMysqli(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php on line 78
+[02-Mar-2023 17:16:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectMySQLi(), 4 passed in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 158 and exactly 5 expected in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php:78
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(158): connectMySQLi('localhost', '3306', 'root', '2802')
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(29): createContactWithMysqli(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php on line 78
+[02-Mar-2023 17:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addErrorLog() in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php:37
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(162): mysqliCreateContact(Object(mysqli), Array)
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(29): createContactWithMysqli(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\mysqli\mysqli.php on line 37
+[02-Mar-2023 17:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:20:56 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php(24): PDO->commit()
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#2 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#3 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:25:26 UTC] PHP Fatal error:  Uncaught TypeError: closePDO(): Argument #1 ($db) must be of type mysqli, PDO given, called in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 139 and defined in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:23
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 23
+[02-Mar-2023 17:27:10 UTC] PHP Fatal error:  Uncaught TypeError: closePDO(): Argument #1 ($db) must be of type mysqli, array given, called in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 139 and defined in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:23
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Array)
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 23
+[02-Mar-2023 17:28:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function closePDO() in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php:139
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#1 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php on line 139
+[02-Mar-2023 17:53:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
+[02-Mar-2023 17:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php:24
+Stack trace:
+#0 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(139): closePDO(Object(PDO))
+#1 C:\Users\franc\PhpstormProjects\E-commerce\src\Registrati.php(27): createContactWithPDO(Array)
+#2 {main}
+  thrown in C:\Users\franc\PhpstormProjects\E-commerce\src\pdo\ConnectToPDO.php on line 24
