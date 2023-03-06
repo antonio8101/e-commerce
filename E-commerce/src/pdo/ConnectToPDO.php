@@ -23,9 +23,6 @@ function connectPDO($host,$dbName,$user,$password, ) : ?PDO {
 function closePDO(PDO $db ): void {
     $db = null ;
 }
-?>
-
-<?php
 
 /**
  * Create new UserData // create contact
