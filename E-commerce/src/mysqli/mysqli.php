@@ -99,9 +99,6 @@ function connectMySQLi( string $host,string $port, string $user, string $passwor
 function closeMySQLi(mysqli $db ): void {
     $db->close();
 }
-?>
-
-<?php //query
 
 function searchContacts( mysqli $db, ?string $text = null ): mysqli_result|bool {
 
