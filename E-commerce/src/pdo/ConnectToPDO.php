@@ -38,7 +38,7 @@ function createContact(PDO $db, array $_params): bool { //createContact
 
     try {
 
-        $command = "INSERT INTO table_u<sersdata (Email, Password, Indirizzo, Città)
+        $command = "INSERT INTO table_usersdata (Email, Password, Indirizzo, Città)
                     VALUES (?,?,?,?)";
 
         $statement = $db->prepare($command);
